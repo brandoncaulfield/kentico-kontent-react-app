@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Kentico Kontent React App
 
 This is a react app that uses the [Kentico Kontent API](https://docs.kontent.ai/) to pull a list of cafe's and display them in a 'card style' list using [material-ui](https://material-ui.com/).
 
