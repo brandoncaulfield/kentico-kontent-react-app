@@ -4,7 +4,7 @@ This is a react app that uses the [Kentico Kontent API](https://docs.kontent.ai/
 
 I find the card style is a great way to illustrate lists of items (e.g. a list of company locations) in a neat format whilst still including lots of information at the same time.
 
-The 'client api' was written in typescript and I would encourage anyone pulling data from the Kentico Kontent API to do the same, if at the very least for the intelliSense.
+The 'client api' was written in typescript and I would encourage anyone pulling data from the Kentico Kontent API to do the same, even at the very least for the intelliSense.
 
 ## To Run the App
 
